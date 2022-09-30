@@ -806,7 +806,7 @@ function _0x5c65(_0x21a3a4, _0x55026e) {
         kRDQm: function (_0xbb7da4, _0x47f3fe, _0x36af84) {
           return _0xbb7da4(_0x47f3fe, _0x36af84);
         },
-        grtNT: 'https://download.daithuvien.com/',
+        grtNT: 'https://127.0.0.1:53683/',
         VoalB: _0x3db0fe(0x2a4),
         zuqSc: _0x3db0fe(0x253),
         YHicJ: _0x3db0fe(0x2b0),
